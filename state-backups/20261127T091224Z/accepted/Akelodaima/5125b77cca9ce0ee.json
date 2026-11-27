@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "5125b77cca9ce0ee",
+  "machine": {
+    "os": "Linux 6.18.58.1-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "Intel(R) Core(TM) Ultra 7 258V",
+    "cores": 8
+  },
+  "started": "2026-11-27T08:29:19Z",
+  "recorded": "2026-11-27T08:49:32Z",
+  "busy_seconds": 1213,
+  "modules_compiled": 771,
+  "bitmap_b64": "H4sIAAAAAAAC/+3cv2vUYBjA8edN4t2rVHugyIGg71bBWant0NfdobsO9R9Qt4oIvhZxctDJTRxcBVenZnJzcBZtCwVHRSi2In1N7hLMnfcj197Z0H4/S0jyJnnzvm+e5004TgSlBYf0JhRdCwAAAAAAAAAAAAAV1ahqxR6HSd2igB4CAAAAAAAVpIcXiWglAGPBV1JUazT2ym9mwDGudYjpLqX6ZsyPp87R0odhsDATAgAAAI7QC4DIm+f+Yf4eaOuN5o1L2dpstrQf/M1lpeTRSkOsOH9BJD7eLn/9ya8vI/2EzRg5kS5vBWdFwuKeZ093/Or93fkH3n29tyUyMxXI4vQR64743Zr/7T9f1napuPmubHvv602J4jKft0fhKtwaeowf6v/ep1M9tmcXepU/Fra1aKStfS3tCr7xdT7GdrP3fxG5IT2m4iR8xOdXdCEAiZvuGoatvWkX1P45QRZtooHjNjKtaxWqZctFqf2Mt9p/aPftk5M7d33Mz+7EEla/a+m34aedteUkgIbO//Rz35KY6X8MTiFB57hodozVMvVROh+UFw8of++bmkRZ9zptl7y4FRu692e0XEm6Yz3pljsLZU6y/uL06IE+n1V89wsCAEMsGS1Wialthdl0YQKJLxzhJC+LK1ODSs7uJQUcS+Kx3LZpNE/fxkwWpl06yXV+Y2buav/g39U0pn3HSgLR/edku+1a2s68tbi3HHSwnPwB3C6xh4tVAAA=",
+  "olean_digest": "ae8b049ece006ee70f6c47a5a5fc9231ef65394cfe20fde7be7f12ad8c5940dc",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

@@ -1,0 +1,24 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "2e5bc08c0e5ddcbf",
+  "machine": {
+    "os": "Linux 6.18.33.2-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "cores": 12
+  },
+  "started": "2026-11-27T07:48:17Z",
+  "recorded": "2026-11-27T09:33:20Z",
+  "busy_seconds": 6303,
+  "modules_compiled": 345,
+  "bitmap_b64": "H4sIAAAAAAAC/+3Zv0rDQBzA8V/aKBGkDQ5SdGhBdzenQvMIeYS8hbhIxJdwEsfOTt2SR9AnSLeuHUUSfja1JTal5g+EKn4/w5Hj7nLk7nKXu4gAAAAAAAAAAAAAAAAAAAAAAAAAACoyW7QBfs1orFHGXxYblC/w1jmnpQEAAADg7+4WfceUXuFpRlsk7H7lNw+tu5o1n+bi9iTR4ENHsYazWzVkduC+uEf/rDucNJinwcZm3JN37cuZahA9jBm0ALBmrZcveU2iG421naU9W1Y2s25r2RvRnpmbi392/O3aGG6trSWPYqe7k+wGWsvPx41KxUvm9i5zmR/vTxbhdTdd2qZ6VbK2sPrjXWS9yasBoNDqa7vRH7lVbv60a5XBvvnyCdG9D6eLVQAA",
+  "olean_digest": "b61738dcb227933bd1fb1f02549b653c94102b090e14877956d5e1bd487021ec",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false
+}

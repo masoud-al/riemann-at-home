@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "e4b84a4df4cfb816",
+  "machine": {
+    "os": "Linux 6.8.0-146-generic",
+    "arch": "x86_64",
+    "cpu": "Intel(R) Xeon(R) Gold 6342 CPU @ 2.80GHz",
+    "cores": 96
+  },
+  "started": "2026-11-27T08:24:41Z",
+  "recorded": "2026-11-27T08:34:46Z",
+  "busy_seconds": 605,
+  "modules_compiled": 3428,
+  "bitmap_b64": "H4sIAAAAAAACA+2bX2wURRjAv53d7m2xvRuggato3SrSxj9YGkwqkNyINRICej6JvnAPTXxRAmpjSFuZalOrMXhP6hOURB/kjfCgSRO7YKI8gBVC1ChJr4Bo9KE1YHp65caZ3fuz96+91jaU8P2Sbnd2Zme++eab+Xa+zAEgVUOWoE6tIMX8iU4K9uI32F76qLaK1/iiC2KUuUMQBEEQBEEQBEEQBEEQBEEQBEEQBEEKoctVsAFdymaQZdJzGy0FKebWnEYgt9tMvg2lRBAEQRAEQRAEqQrr/+0cbdQggtxhcKBFv/CplmRwjihpTP45GqoYWWKYpZzfRQLc8LlCavv9GpcPpLmuKrJ+TbpEvQUYsdkWBm6QMwyg2aSsx2T0fHBdcetmtqFXSCup1hEjt5b1NagDBEEQBEEQBLljCEBS5LiPJ+Q1FXFzZkQku907J/a+WdO96eNUz2sXxqfdohGhsrm63VK2Yu5P7NC8zaBd+8RvWw/vIXvHXjenRSQ1fjOdaboe4mlRgNvO0RcuWxv3JL1ahg6OBTv3Maf2kWMHPqL3thodtYuqC978zouH14511MQ/HRNPOqcn4GAMui7LnFi4471AvwZX28ju7zcNBOKro7Sf8fXPnr2mDf20vRPiAO8HEgd2q2roaWi62P3tEN2w0YAV1349Q6DvxPmWk0ydvbly4t21zzSA3dTWar0xrF94GuDS40dW7geRmkyLPye9vh8S11Oy8O/6jF8j4+oykn5qquevTDjJedmkpETbFaIDN9Y53t1qfRvE5S7f/ANY2AHDVA93wZqwb+gaIdEiG7l0F4Q2OMPQ3NNbUFlxOOuzwgdrMv9V/IDkIwgOl4nWRq+Rzw2rVpoF1wHacuGJwpCBxUsC9QuIKThvqx4dB7YzlA12+Ih7qYZ6pSI27CZOwcCrbkm6wwLjVEzOEnNF/hV9Xka1DAIhZN5H5XYG/V34piTfZlfLRzT5bC2Z9vERx2fQk2L0fmOw++8fQzPiIf1By1t29LulwigFJlVnunKskiNBgGnK7igMOLKNOhWwBVtzLTGs7MwANVlCytwc007Id1cCb+eiXUnEO9uAmJ7oQHWYEqGyEmakn1K18oC81DGIlYR3p4ScRHk70j0dm7n8ze41nbeTbPiXusYwI1/vTYhsNpvHuCQnr+QTTbPHnXMjkfhacwI0WJxPZ1JZEbiYDkHAvY05W4GHio45JrNdFWVEKqfJvrzNR3zuwBv8QK5Y75BZZcfND7yJS7o80SzodJ//cM+HN2gqY09fXE9l/IYPTzxaQ4l8/axepPDBMDzvrisxPUrAatzcn1ng0g9HtcxaQdzOcHf4vH6wbd5aVCcLWsTwTlW+ZS/wQOpEpQy7+LimLZ31zYKJFyydgTK/ptAAynlm23InmGyB15cvwrNmRHzeRSOeRmbxM8BU9rCy7088Wfk/6XHxy7iYm9DJPsiNmVoMRCB07DlbClH1Gsof4NkviQh+3yEIMgeDsWYLfu5v/nJwOgKUdQHfT8ILrazSQpWYz2fjEX+ibraSHfP/GQTf/mhULv772K7+Q+Qlm9NhLewu6g5xvwUmRv9NyYW7oeRFrczniu31WFNesvIuJO1JyQo/TqKVNxRLzNT0aN93X40cfWwBu0T4D9DkpBKLVQAA",
+  "olean_digest": "4c022f5b06ddfd1ec30fbb1459182c33b97162d354a956ec3ee9d3e4aa9417e1",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Russell Land"
+}

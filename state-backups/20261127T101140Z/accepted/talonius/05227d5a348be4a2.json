@@ -1,0 +1,126 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "05227d5a348be4a2",
+  "machine": {
+    "os": "Linux 7.3.6-2-cachyos",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 9950X3D 16-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-26T04:20:57Z",
+  "recorded": "2026-11-27T10:01:56Z",
+  "busy_seconds": 54677,
+  "modules_compiled": 148015,
+  "bitmap_b64": "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",
+  "olean_digest": "4adf506536cc9278c7856aa719be2576ee5ba19c914c22bf45e1768e540c2809",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "crashes": [
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ExpAlgAltAlt",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.ImportsStatement",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.EqZeroOfPkAt",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.LevelCharacterMatchesWitnessAltBis",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.XiChrEqColsStatement",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.RecValPackBStatement",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SplitA",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "ReciprocityTheory.ReductiveGroups.DiscreteSeries.TraceGap.MemHighestWeightSubIff",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.DataOfBWit",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.BranchModel",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.SplitC",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "ReciprocityTheory.ReductiveGroups.SymplecticTraces.WeylCharacters.BlockP",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.JoinLinkedRealization",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.HermWCellLastMulMulVecEqOfInWb",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.AtHDivGOfMi",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.DivisorProofs.PolyAveragesFiniteWeightStableSubspace",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.TwOneOfStepsStatement",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.CentralRatioStabAtTStatement",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.XiLevEqConstMulLocFac",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.ThirdPlaceSeries.At23OfAll",
+      "code": 1,
+      "at": "2026-11-27T09:59:12Z"
+    }
+  ]
+}

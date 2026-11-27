@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "b1793286a273a361",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen AI 7 350 w/ Radeon 860M",
+    "cores": 16
+  },
+  "started": "2026-11-27T06:22:10Z",
+  "recorded": "2026-11-27T09:34:24Z",
+  "busy_seconds": 11534,
+  "modules_compiled": 8873,
+  "bitmap_b64": "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",
+  "olean_digest": "0d0a9da595fdcf6e19f8c2e5440da5ab2f036964dd40fad1c2e8857fe9963593",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Stephen Frost"
+}

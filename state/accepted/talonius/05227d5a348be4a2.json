@@ -1,0 +1,126 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "05227d5a348be4a2",
+  "machine": {
+    "os": "Linux 7.3.6-2-cachyos",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 9950X3D 16-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-26T04:20:57Z",
+  "recorded": "2026-11-27T10:43:04Z",
+  "busy_seconds": 57145,
+  "modules_compiled": 151311,
+  "bitmap_b64": "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",
+  "olean_digest": "446bced6713aa687b1e970760360e3d2c6faef9d319521c2bee4d929cf1c63ca",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "crashes": [
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.ShortLatticeUnitarize.CompactBoxLattices.RtWMem",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.ShortLatticeUnitarize.CompactBoxLattices.CentChar",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.UnipotentTermsContributionProof",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.UnipotentIdempotents.PlacesEq",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.UnipotentIdempotents.GExRtZero",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.PfFhyp",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.WeakShimuraTheory.UnipotentIdempotents.WtRoot",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.IsHolVOf",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsIrreducibleBaseChangeWeightTensorDualRepOfEmbeStatement",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FinitePrimitiveRootStatement",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.BaseChangeUnits.CentralResidueGroups.Across",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ThetaSeriesIntegralFormsEqSpanDedekindCoefRingStatement",
+      "code": 1,
+      "at": "2026-11-27T10:04:26Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.JacNeZero",
+      "code": 1,
+      "at": "2026-11-27T10:07:40Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.PDUnit",
+      "code": 1,
+      "at": "2026-11-27T10:07:40Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.ConjNeOne",
+      "code": 1,
+      "at": "2026-11-27T10:07:40Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.PDMul",
+      "code": 1,
+      "at": "2026-11-27T10:07:40Z"
+    },
+    {
+      "module": "Development.AutomorphicArithmetic.AutomorphicVarieties.UnitaryThreeDeformations.RigLoc",
+      "code": 1,
+      "at": "2026-11-27T10:07:40Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.UnramifiedTwist",
+      "code": 1,
+      "at": "2026-11-27T10:07:40Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.PTwistRc",
+      "code": 1,
+      "at": "2026-11-27T10:07:40Z"
+    },
+    {
+      "module": "PositivityTheory.AutomorphicForms.PublishedInputs.JacquetLanglands.TorusKernels.IsHolVOf",
+      "code": 1,
+      "at": "2026-11-27T10:07:40Z"
+    }
+  ]
+}
